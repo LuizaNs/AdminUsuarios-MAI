@@ -1,0 +1,36 @@
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.deps.json
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.sourcelink.json
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\refint\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Auth\obj\Debug\net8.0\ref\AdmUsuarios.Auth.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.deps.json
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.AssemblyInfoInputs.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.AssemblyInfo.cs
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.sourcelink.json
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\refint\AdmUsuarios.Auth.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Auth\obj\Debug\net8.0\ref\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.deps.json
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\bin\Debug\net8.0\AdmUsuarios.Auth.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.sourcelink.json
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\refint\AdmUsuarios.Auth.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\AdmUsuarios.Auth.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Auth\obj\Debug\net8.0\ref\AdmUsuarios.Auth.dll

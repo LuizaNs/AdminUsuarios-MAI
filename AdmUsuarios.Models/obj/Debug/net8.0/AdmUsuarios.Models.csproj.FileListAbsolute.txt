@@ -1,0 +1,78 @@
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.deps.json
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.sourcelink.json
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\refint\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Models\obj\Debug\net8.0\ref\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.deps.json
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.sourcelink.json
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\refint\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Models\obj\Debug\net8.0\ref\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.deps.json
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.sourcelink.json
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\refint\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\ref\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.deps.json
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.sourcelink.json
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\refint\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Models\obj\Debug\net8.0\ref\AdmUsuarios.Models.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.deps.json
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfo.cs
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.sourcelink.json
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\refint\AdmUsuarios.Models.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Models\obj\Debug\net8.0\ref\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.deps.json
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.sourcelink.json
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\refint\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Models\obj\Debug\net8.0\ref\AdmUsuarios.Models.dll

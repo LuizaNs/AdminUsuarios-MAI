@@ -1,0 +1,507 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.TesteInteg\\AdmUsuarios.TesteInteg.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\adm-usuarios\\adm-usuarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\adm-usuarios\\adm-usuarios.csproj",
+        "projectName": "adm-usuarios",
+        "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\adm-usuarios\\adm-usuarios.csproj",
+        "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\adm-usuarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj"
+              },
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj"
+              },
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Service\\AdmUsuarios.Service.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Service\\AdmUsuarios.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Auth\\AdmUsuarios.Auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Auth\\AdmUsuarios.Auth.csproj",
+        "projectName": "AdmUsuarios.Auth",
+        "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Auth\\AdmUsuarios.Auth.csproj",
+        "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Auth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj",
+        "projectName": "AdmUsuarios.Data",
+        "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj",
+        "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj",
+        "projectName": "AdmUsuarios.Models",
+        "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj",
+        "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Service\\AdmUsuarios.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Service\\AdmUsuarios.Service.csproj",
+        "projectName": "AdmUsuarios.Service",
+        "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Service\\AdmUsuarios.Service.csproj",
+        "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Auth\\AdmUsuarios.Auth.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Auth\\AdmUsuarios.Auth.csproj"
+              },
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Data\\AdmUsuarios.Data.csproj"
+              },
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.ML.Recommender": {
+              "target": "Package",
+              "version": "[0.21.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.TesteInteg\\AdmUsuarios.TesteInteg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.TesteInteg\\AdmUsuarios.TesteInteg.csproj",
+        "projectName": "AdmUsuarios.TesteInteg",
+        "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.TesteInteg\\AdmUsuarios.TesteInteg.csproj",
+        "packagesPath": "C:\\Users\\luiza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\AdmUsuarios.TesteInteg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\adm-usuarios\\adm-usuarios.csproj": {
+                "projectPath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\teste\\adm-usuarios\\adm-usuarios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

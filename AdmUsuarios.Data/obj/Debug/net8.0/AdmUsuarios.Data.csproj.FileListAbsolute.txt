@@ -1,0 +1,92 @@
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.deps.json
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.sourcelink.json
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\refint\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\AdmUsuarios.Data\obj\Debug\net8.0\ref\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.deps.json
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.sourcelink.json
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuar.2D489611.Up2Date
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\refint\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Lu\teste\AdmUsuarios.Data\obj\Debug\net8.0\ref\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.deps.json
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.sourcelink.json
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuar.2D489611.Up2Date
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\refint\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Lu\FIAP\.Net-Challenge\AdmUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\ref\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.deps.json
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.sourcelink.json
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuar.2D489611.Up2Date
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\refint\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\AdminUsuarios\AdmUsuarios.Data\obj\Debug\net8.0\ref\AdmUsuarios.Data.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.deps.json
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.AssemblyReference.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfo.cs
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.sourcelink.json
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuar.2D489611.Up2Date
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\refint\AdmUsuarios.Data.dll
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\Source\Repos\AdminUsuarios-Sprint4\AdmUsuarios.Data\obj\Debug\net8.0\ref\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.deps.json
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\bin\Debug\net8.0\AdmUsuarios.Models.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.AssemblyReference.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.AssemblyInfo.cs
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.sourcelink.json
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuar.2D489611.Up2Date
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\refint\AdmUsuarios.Data.dll
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\AdmUsuarios.Data.pdb
+C:\Users\luiza\OneDrive\Área de Trabalho\teste\AdmUsuarios.Data\obj\Debug\net8.0\ref\AdmUsuarios.Data.dll
